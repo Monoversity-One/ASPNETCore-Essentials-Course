@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "13-HealthChecksObservability": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:51130;http://localhost:51132"
+    }
+  }
+}
+

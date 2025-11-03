@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "09-AuthCookieJwt": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:51163;http://localhost:51164"
+    }
+  }
+}

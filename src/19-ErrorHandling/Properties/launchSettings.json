@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "19-ErrorHandling": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:51190;http://localhost:51192"
+    }
+  }
+}
+

@@ -1,0 +1,19 @@
+@page
+@model RazorPagesSample.Pages.IndexModel
+@{
+    ViewData["Title"] = "Razor Pages";
+}
+<h1 class="display-6">Razor Pages sample</h1>
+<p>Current time: @Model.Now</p>
+<form method="post">
+    <div class="mb-3">
+        <label asp-for="Input" class="form-label">Echo</label>
+        <input asp-for="Input" class="form-control" />
+        <span asp-validation-for="Input" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+@if (!string.IsNullOrWhiteSpace(Model.Message))
+{
+    <div class="alert alert-info mt-3">@Model.Message</div>
+}

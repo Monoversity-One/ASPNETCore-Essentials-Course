@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "16-RateLimiting": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:51160;http://localhost:51162"
+    }
+  }
+}
+
