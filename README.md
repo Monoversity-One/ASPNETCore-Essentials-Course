@@ -449,21 +449,21 @@ dotnet run
 
 ## 📖 Key Concepts Demonstrated
 
-✅ **Minimal APIs** and traditional MVC patterns
-✅ **Dependency injection** and service lifetimes
-✅ **Configuration** and logging best practices
-✅ **Entity Framework Core** with relationships
-✅ **Authentication** and authorization
-✅ **Real-time communication** with SignalR
-✅ **High-performance RPC** with gRPC
-✅ **Rate limiting** and security headers
-✅ **Error handling** and problem details
-✅ **Comprehensive testing** strategies
-✅ **Background services** and hosted services
-✅ **Health checks** and observability
-✅ **File upload/download** with streaming
-✅ **CORS** and web security
-✅ **Caching** and compression
+✅ **Minimal APIs** and traditional MVC patterns <br/>
+✅ **Dependency injection** and service lifetimes <br/>
+✅ **Configuration** and logging best practices <br/>
+✅ **Entity Framework Core** with relationships <br/>
+✅ **Authentication** and authorization <br/>
+✅ **Real-time communication** with SignalR <br/>
+✅ **High-performance RPC** with gRPC <br/>
+✅ **Rate limiting** and security headers <br/>
+✅ **Error handling** and problem details <br/>
+✅ **Comprehensive testing** strategies <br/>
+✅ **Background services** and hosted services <br/>
+✅ **Health checks** and observability <br/>
+✅ **File upload/download** with streaming <br/>
+✅ **CORS** and web security <br/>
+✅ **Caching** and compression <br/>
 
 ## 🎓 Tips for Success
 
